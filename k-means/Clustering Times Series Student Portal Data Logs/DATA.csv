@@ -1,0 +1,150 @@
+Ip Address;User Identifier;User Identity;Date;Time;Page Request;Status;Size Request;Reference;Browser
+192.168.1.16;0;0;04-Dec-18;21:52:00;https://portal.uad.ac.id/pembayaran/Kuliah;200;621;0;Google chrome
+192.168.1.16;0;0;05-Dec-18;18:48:30;https://portal.uad.ac.id/transkrip/Transkrip;200;54947;0;Google chrome
+64.233.173.168;0;0;06-Dec-18;8:30:03;https://portal.uad.ac.id/prestasi/prestasi;302;35754;0;Google Chrome
+192.168.1.16;0;0;06-Dec-18;9:28:40;https://portal.uad.ac.id/transkrip/Transkrip;200;542;0;Google Chrome
+64.233.173.170;0;0;06-Dec-18;20:42:00;https://portal.uad.ac.id/presensi/presensi;304;453;0;Google Chrome
+192.168.1.16;0;0;07-Dec-18;14:21:02;https://portal.uad.ac.id/cdc/Agenda;200;453;0;Google Chrome
+192.168.1.16;0;0;07-Dec-18;14:31:00;https://portal.uad.ac.id/wisuda/Wisuda;200;345;0;Google Chrome
+64.233.173.172;0;0;07-Dec-18;19:37:00;https://portal.uad.ac.id/perpus/sirkulasi;200;455;0;Google Chrome
+192.168.1.16;0;0;07-Dec-18;20:13:00;https://portal.uad.ac.id/skripsi/Skripsi;304;355;0;Google Chrome
+192.168.1.16;0;0;07-Dec-18;21:38:04;https://portal.uad.ac.id/lsp/Asesmen/index;200;454;0;Google Chrome
+192.168.43.172;0;0;04-Dec-18;23:50:16;https://portal.uad.ac.id/transkrip/Transkrip;302;504;0;Mozilla
+192.168.43.172;0;0;05-Dec-18;0:19:38;https://portal.uad.ac.id/pembayaran/Kuliah;302;621;0;Mozilla
+192.168.43.172;0;0;05-Dec-18;7:54:27;https://portal.uad.ac.id/khs/Khs;302;54947;0;Internet Explorer
+64.233.173.172;0;0;05-Dec-18;9:28:03;https://portal.uad.ac.id/;200;35754;0;Chrome
+192.168.43.172;0;0;05-Dec-18;16:31:40;https://portal.uad.ac.id/skpi/Skpi;240;542;0;Mozilla
+192.168.43.172;0;0;06-Dec-18;0:32:53;https://portal.uad.ac.id/khs/Khs;200;453;0;Mozilla
+192.168.43.172;0;0;06-Dec-18;15:38:36;https://portal.uad.ac.id/transkrip/Transkrip;201;453;0;Mozilla
+192.168.43.172;0;0;06-Dec-18;21:42:27;https://portal.uad.ac.id/transkrip/Transkrip;204;345;0;Mozilla
+192.168.43.172;0;0;06-Dec-18;22:17:37;https://portal.uad.ac.id/skpi/Skpi;104;455;0;Mozilla
+192.168.43.172;0;0;07-Dec-18;23:20:23;https://portal.uad.ac.id/;200;355;0;Mozilla
+192.168.43.157;0;0;02-Dec-18;9:07:24;https://portal.uad.ac.id/tbq/Tbq;200;454;0;Chrome
+192.168.43.157;0;0;02-Dec-18;9:16:38;https://portal.uad.ac.id/presensi/Presensi/index;200;504;0;Chrome
+192.168.43.157;0;0;02-Dec-18;17:16:45;https://portal.uad.ac.id/pembayaran/Kuliah;200;621;0;Chrome
+192.168.43.157;0;0;03-Dec-18;20:31:39;https://portal.uad.ac.id/khs/Khs/index;302;54947;0;Chrome
+192.168.43.157;0;0;04-Dec-18;18:27:40;https://portal.uad.ac.id/transkrip/Transkrip;302;35754;0;Chrome
+192.168.43.157;0;0;05-Dec-18;7:50:22;https://portal.uad.ac.id/presensi/Presensi/index;208;542;0;Chrome
+192.168.43.157;0;0;05-Dec-18;17:38:03;https://portal.uad.ac.id/khs/Khs/index;200;453;0;Chrome
+192.168.43.157;0;0;06-Dec-18;6:21:50;https://portal.uad.ac.id/presensi/Presensi/index;200;453;0;Chrome
+192.168.43.157;0;0;06-Dec-18;21:51:19;https://portal.uad.ac.id/pembayaran/Kuliah;220;345;0;Chrome
+192.168.43.157;0;0;07-Dec-18;19:20:33;https://portal.uad.ac.id/presensi/Presensi/index;200;455;0;Chrome
+192.168.100.8;0;0;01-Dec-18;23:19:00;https://portal.uad.ac.id/presensi/Presensi/index;302;355;0;Mozilla Firefox
+192.168.100.8;0;0;02-Dec-18;21:50:46;https://portal.uad.ac.id/krs/Krs;300;454;0;Mozilla Firefox
+192.168.100.8;0;0;02-Dec-18;21:52:50;https://portal.uad.ac.id/kkn/Kkn;320;504;0;Mozilla Firefox
+192.168.100.8;0;0;03-Dec-18;4:47:10;https://portal.uad.ac.id/wifi/Mahasiswa;402;621;0;Mozilla Firefox
+192.168.100.6;0;0;05-Dec-18;6:01:26;https://portal.uad.ac.id/cdc/Se/index;402;54947;0;Mozilla Firefox
+192.168.100.6;0;0;06-Dec-18;9:54:03;https://portal.uad.ac.id/jadwal/Prodi/index;402;35754;0;Mozilla Firefox
+192.168.100.6;0;0;06-Dec-18;9:55:48;https://portal.uad.ac.id/pembayaran/Kuliah;400;542;0;Mozilla Firefox
+192.168.100.6;0;0;07-Dec-18;9:57:23;https://portal.uad.ac.id/jadwal/Dosen;200;453;0;Mozilla Firefox
+192.168.100.6;0;0;07-Dec-18;23:43:37;https://portal.uad.ac.id/presensi/Presensi;200;453;0;Mozilla Firefox
+192.168.100.6;0;0;07-Dec-18;23:57:27;https://portal.uad.ac.id/pembayaran/Kuliah;201;345;0;Mozilla Firefox
+192.168.100.36;0;0;01-Dec-18;10:21:20;https://portal.uad.ac.id/khs/Khs;200;455;0;Mozilla Firefox
+192.168.100.36;0;0;01-Dec-18;10:25:39;https://portal.uad.ac.id/transkrip/Transkrip;302;355;0;Mozilla Firefox
+192.168.100.36;0;0;03-Dec-18;10:45:56;https://portal.uad.ac.id/jadwal/Dosen;200;454;0;Mozilla Firefox
+192.168.100.36;0;0;03-Dec-18;13:09:11;https://portal.uad.ac.id/krs/Krs;300;504;0;Google Chrome
+192.168.100.36;0;0;03-Dec-18;14:49:06;https://portal.uad.ac.id/pembayaran/Kuliah;300;621;0;Google Chrome
+192.168.100.36;0;0;04-Dec-18;9:30:43;https://portal.uad.ac.id/transkrip/Transkrip;204;400;0;Mozilla Firefox
+192.168.100.36;0;0;05-Dec-18;8:45:12;https://portal.uad.ac.id/wifi/Mahasiswa;203;368;0;Mozilla Firefox
+192.168.100.36;0;0;06-Dec-18;13:55:34;https://portal.uad.ac.id/presensi/Presensi;200;542;0;Google Chrome
+192.168.100.36;0;0;06-Dec-18;14:02:17;https://portal.uad.ac.id/skpi/Skpi;200;453;0;Google Chrome
+192.168.100.36;0;0;07-Dec-18;13:25:12;https://portal.uad.ac.id/transkrip/Transkrip;208;542;0;Mozilla Firefox
+192.168.100.201;0;0;01-Dec-18;18:36:41;https://portal.uad.ac.id/tbq/Tbq;200;453;0;G.Chrome
+192.168.100.201;0;0;03-Dec-18;9:11:15;https://portal.uad.ac.id/presensi/Presensi/index;200;453;0;G.Chrome
+192.168.100.201;0;0;03-Dec-18;19:05:20;https://portal.uad.ac.id/pembayaran/Kuliah;220;345;0;G.Chrome
+192.168.100.201;0;0;04-Dec-18;18:49:05;https://portal.uad.ac.id/kelas/Kelas;200;455;0;G.Chrome
+192.168.100.201;0;0;05-Dec-18;11:35:25;https://portal.uad.ac.id/jadwal/Prodi/index;302;355;0;G.Chrome
+192.168.100.201;0;0;06-Dec-18;10:25:58;https://portal.uad.ac.id/transkrip/Transkrip;300;454;0;G.Chrome
+192.168.100.201;0;0;07-Dec-18;14:21:37;https://portal.uad.ac.id/pembayaran/Kuliah;320;504;0;G.Chrome
+192.168.100.201;0;0;07-Dec-18;14:22:28;https://portal.uad.ac.id/presensi/Presensi/index;402;621;0;G.Chrome
+192.168.100.201;0;0;07-Dec-18;14:26:52;https://portal.uad.ac.id/profile;402;54947;0;G.Chrome
+192.168.100.201;0;0;07-Dec-18;20:19:23;https://portal.uad.ac.id/jadwal/Dosen;402;35754;0;G.Chrome
+115.178.238.102;0;0;02-Dec-18;20:00:00;https://portal.uad.ac.id/jadwal/Dosen;400;542;0;Mozilla
+115.178.251.119;0;0;03-Dec-18;7:05:00;https://portal.uad.ac.id/khs/Khs/index;200;453;0;UC Browser
+115.178.251.119;0;0;03-Dec-18;7:06:00;https://portal.uad.ac.id/transkrip/Transkrip;200;453;0;UC Browser
+115.178.251.119;0;0;03-Dec-18;7:08:00;https://portal.uad.ac.id//transkrip/cetak/;201;345;0;UC Browser
+188.166.230.39;0;0;05-Dec-18;13:27:00;https://portal.uad.ac.id/skpi/Skpi;200;455;0;Google Chrome
+188.166.230.39;0;0;05-Dec-18;13:30:00;https://portal.uad.ac.id/wifi/Mahasiswa;302;355;0;Google Chrome
+182.1.69.1;0;0;07-Dec-18;5:45:00;https://portal.uad.ac.id/krs/Krs;200;454;0;UC Browser
+182.1.69.1;0;0;07-Dec-18;5:47:00;https://portal.uad.ac.id/krs/Krs/cetak/180000061;300;504;0;UC Browser
+182.1.69.1;0;0;07-Dec-18;5:48:00;https://portal.uad.ac.id/pembayaran/Kuliah;300;621;0;UC Browser
+182.1.69.1;0;0;07-Dec-18;5:50:00;https://portal.uad.ac.id/;204;400;0;UC Browser
+192.168.43.76;0;0;01-Dec-18;5:35:00;https://portal.uad.ac.id/presensi/Presensi;203;368;0;chrome
+192.168.43.76;0;0;02-Dec-18;1:20:20;https://portal.uad.ac.id/pembayaran/Kuliah;200;542;0;chrome
+192.168.43.120;0;0;03-Dec-18;15:40:15;https://portal.uad.ac.id/khs/Khs;200;453;0;chrome
+192.168.43.120;0;0;04-Dec-18;18:45:00;https://portal.uad.ac.id/transkrip/Transkrip;208;542;0;chrome
+192.168.43.76;0;0;05-Dec-18;5:05:00;https://portal.uad.ac.id/skpi/Skpi;200;453;0;chrome
+192.168.43.76;0;0;06-Dec-18;4:55:01;https://portal.uad.ac.id/wifi/Mahasiswa;200;453;0;chrome
+192.168.43.76;0;0;07-Dec-18;4:35:00;https://portal.uad.ac.id/perpus/Sirkulasi;220;345;0;chrome
+192.168.43.76;0;0;07-Dec-18;5:45:30;https://portal.uad.ac.id/prestasi/Prestasi;200;455;0;chrome
+192.168.43.120;0;0;07-Dec-18;18:27:45;https://portal.uad.ac.id/cdc/Se;302;355;0;chrome
+192.168.43.120;0;0;07-Dec-18;21:35:00;https://portal.uad.ac.id/forum/Forum/hashtag/BAA;300;454;0;chrome
+192.168.43.34;0;0;01-Dec-18;17:34:08;https://portal.uad.ac.id/presensi/Presensi;320;504;0;Chrome
+192.168.43.18;0;0;03-Dec-18;8:21:00;https://portal.uad.ac.id/transkrip/Transkrip;402;621;0;Uc browser
+192.168.43.18;0;0;03-Dec-18;8:24:29;https://portal.uad.ac.id/khs/Khs/index;402;54947;0;Uc browser
+192.168.43.18;0;0;05-Dec-18;1:51:12;https://portal.uad.ac.id/krs/Krs;402;35754;0;UC browser
+192.168.43.18;0;0;05-Dec-18;1:55:03;https://portal.uad.ac.id/kkn/Kkn;400;542;0;Chrome 
+192.168.43.18;0;0;05-Dec-18;16:05:15;https://portal.uad.ac.id/presensi/Presensi;200;453;0;UC browser
+192.168.100.8;0;0;06-Dec-18;18:39:28;https://portal.uad.ac.id/transkrip/Transkrip;200;453;0;UC browser
+192.168.100.8;0;0;06-Dec-18;18:43:04;https://portal.uad.ac.id/khs/Khs/index;201;345;0;UC browser
+192.168.100.8;0;0;07-Dec-18;5:06:16;https://portal.uad.ac.id/presensi/Presensi/index;200;455;0;UC browser
+192.168.100.8;0;0;07-Dec-18;5:09:27;https://portal.uad.ac.id/pembayaran/Kuliah;302;355;0;UC browser
+192.168.1.5;0;0;01-Dec-18;20:00:04;https://portal.uad.ac.id/pembayaran/Kuliah;200;454;0;Google Chrome
+192.168.1.2;0;0;02-Dec-18;21:22:09;https://portal.uad.ac.id/kelas/Kelas;300;504;0;Google Chrome
+192.168.1.2;0;0;03-Dec-18;16:29:47;https://portal.uad.ac.id/presensi/Presensi;300;621;0;Google Chrome
+192.168.1.3;0;0;04-Dec-18;22:02:55;https://portal.uad.ac.id/kkn/Kkn;204;400;0;Google Chrome
+192.168.1.3;0;0;05-Dec-18;20:11:11;https://portal.uad.ac.id/transkrip/Transkrip;203;368;0;Google Chrome
+192.168.1.3;0;0;06-Dec-18;20:13:16;https://portal.uad.ac.id/jadwal/Dosen;200;542;0;Google Chrome
+192.168.1.3;0;0;07-Dec-18;20:13:32;https://portal.uad.ac.id/khs/Khs;200;453;0;Google Chrome
+120.188.4.160;0;0;02-Dec-18;3:43:28;https://portal.uad.ac.id/forum;208;542;0;Chrome
+128.199.238.125;0;0;02-Dec-18;3:46:33;https://portal.uad.ac.id/kkn/Kkn;200;453;0;Chrome
+192.168.43.241;0;0;02-Dec-18;3:49:35;https://portal.uad.ac.id/lsp/Asesmen/index;200;453;0;Chrome
+128.199.238.125;0;0;02-Dec-18;3:51:11;https://portal.uad.ac.id/jadwal/Prodi/index;220;345;0;Chrome
+120.188.4.160;0;0;02-Dec-18;3:53:24;https://portal.uad.ac.id/skripsi/Skripsi;200;455;0;Mozilla
+192.168.43.241;0;0;02-Dec-18;3:58:58;https://portal.uad.ac.id/khs/Khs/index;302;355;0;Mozilla
+120.188.4.160;0;0;02-Dec-18;3:59:42;https://portal.uad.ac.id/khs/Khs/index;300;454;0;Mozilla
+146.185.157.240;0;0;02-Dec-18;4:01:51;https://portal.uad.ac.id/lsp/Asesmen/index;320;504;0;Chrome
+162.243.246.160;0;0;02-Dec-18;4:04:05;https://portal.uad.ac.id/profile;402;621;0;Chrome
+192.168.43.241;0;0;02-Dec-18;4:06:39;https://portal.uad.ac.id/panduan/Faq;402;54947;0;Mozilla
+192.168.43.241;0;0;01-Dec-18;22:12:30;https://portal.uad.ac.id/inbox;402;35754;0;Chrome
+128.199.81.128;0;0;01-Dec-18;22:14:36;https://portal.uad.ac.id/wifi/Mahasiswa;400;542;0;Chrome
+120.188.4.160;0;0;01-Dec-18;22:16:58;https://portal.uad.ac.id/presensi/Presensi/index;200;453;0;Chrome
+120.188.4.160;0;0;01-Dec-18;22:17:54;https://portal.uad.ac.id/praktikum/Praktikum;200;453;0;Chrome
+120.188.4.160;0;0;01-Dec-18;22:18:37;https://portal.uad.ac.id/skripsi/Skripsi;201;345;0;Chrome
+104.236.53.155;0;0;03-Dec-18;13:00:46;https://portal.uad.ac.id/dashboard;200;455;0;Chrome
+107.170.166.118;0;0;03-Dec-18;13:08:49;https://portal.uad.ac.id/tahsin/Tahsin;302;355;0;Chrome
+107.170.166.118;0;0;03-Dec-18;13:09:57;https://portal.uad.ac.id/tahsin/Tahsin/index;200;454;0;Chrome
+107.170.166.118;0;0;03-Dec-18;13:11:08;https://portal.uad.ac.id/cdc/Agenda/history;300;504;0;Chrome
+192.168.43.241;0;0;03-Dec-18;13:12:56;https://portal.uad.ac.id/;300;621;0;Chrome
+192.168.1.9;0;0;01-Dec-18;13:15:23;https://portal.uad.ac.id/presensi/Presensi/index;204;400;0;Chrome
+192.168.1.8;0;0;02-Dec-18;9:20:02;https://portal.uad.ac.id/transkrip/Transkrip;203;368;0;Chrome
+192.168.1.9;0;0;03-Dec-18;23:47:26;https://portal.uad.ac.id/pembayaran/Kuliah;200;542;0;Chrome
+10.0.36.123;0;0;04-Dec-18;12:08:15;https://portal.uad.ac.id/skpi/Skpi;200;453;0;Chrome
+192.168.1.9;0;0;05-Dec-18;18:39:21;https://portal.uad.ac.id/wisuda/Wisuda;208;542;0;Chrome
+192.168.43.172;0;0;06-Dec-18;15:23:11;https://portal.uad.ac.id/lsp/Asesmen/index;200;453;0;Chrome
+192.168.1.12;0;0;07-Dec-18;16:41:33;https://portal.uad.ac.id/lsp/Asesmen/index;200;453;0;Chrome
+192.168.43.241;0;0;04-Dec-18;12:00:50;https://portal.uad.ac.id/;220;345;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:01:58;https://portal.uad.ac.id/transkrip/Transkrip;200;455;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:03:05;https://portal.uad.ac.id/kelas/Kelas;302;355;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:03:54;https://portal.uad.ac.id/kelas/Kelas/index;300;454;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:05:15;https://portal.uad.ac.id/forum/Forum/hashtag/simeru;320;504;0;Mozilla
+36.73.97.156;0;0;05-Dec-18;5:44:28;https://portal.uad.ac.id/dashboard;402;621;0;Chrome
+36.73.97.156;0;0;05-Dec-18;53:45:43;https://portal.uad.ac.id/presensi/Presensi/index;402;54947;0;Chrome
+36.73.97.156;0;0;05-Dec-18;5:46:26;https://portal.uad.ac.id/krs/Krs;402;35754;0;Chrome
+36.73.97.156;0;0;05-Dec-18;5:48:52;https://portal.uad.ac.id/wisuda/Wisuda;400;542;0;Mozilla
+36.73.97.156;0;0;05-Dec-18;5:49:39;https://portal.uad.ac.id/khs/Khs/index;200;453;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:06:44;https://portal.uad.ac.id/forum/Forum/hashtag/sempropPBSI;200;453;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:09:02;https://portal.uad.ac.id/skripsi/Skripsi;201;345;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:09:56;https://portal.uad.ac.id/tahsin/Tahsin;200;455;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:10:48;https://portal.uad.ac.id/perpus/Sirkulasi;302;355;0;Mozilla
+114.5.144.180;0;0;04-Dec-18;12:11:56;https://portal.uad.ac.id/wifi/Mahasiswa;200;454;0;Mozilla
+146.185.157.238;0;0;07-Dec-18;5:21:46;https://portal.uad.ac.id/profile;300;504;0;Chrome
+36.73.97.156;0;0;07-Dec-18;5:22:50;https://portal.uad.ac.id/;300;621;0;Mozilla
+36.73.97.156;0;0;07-Dec-18;5:23:46;https://portal.uad.ac.id/skripsi/Skripsi;204;400;0;Mozilla
+36.73.97.156;0;0;07-Dec-18;5:24:34;https://portal.uad.ac.id/presensi/Presensi/index;203;368;0;Mozilla
+146.185.157.238;0;0;07-Dec-18;5:26:07;https://portal.uad.ac.id/pembayaran/Kuliah;200;542;0;Chrome
+146.185.157.238;0;0;07-Dec-18;5:27:17;https://portal.uad.ac.id/praktikum/Praktikum;200;453;0;Chrome
+36.73.97.156;0;0;07-Dec-18;5:28:14;https://portal.uad.ac.id/beasiswa/Beasiswa;208;542;0;Mozilla
+192.168.1.112;0;0;07-Dec-18;5:29:43;https://portal.uad.ac.id/skpi/Skpi;200;453;0;Chrome
+162.243.127.7;0;0;03-Dec-18;13:20:43;https://portal.uad.ac.id/wifi/Mahasiswa;200;453;0;Chrome
+162.243.127.7;0;0;03-Dec-18;13:22:07;https://portal.uad.ac.id/inbox;220;345;0;Chrome
