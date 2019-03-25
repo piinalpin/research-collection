@@ -1,2 +1,8 @@
-# Research Collection Which Used Python
-Collection of Any Research of Data and Text Mining
+# Search The Mpasi Menu with The Dice Coefficient Method
+World Health Organization (WHO) memperkirakan bahwa 54% penyebab kematian pada bayi dan balita didasari oleh keadaan gizi buruk. Salah satu penyebab terjadinya gangguan tumbuh kembang bayi dan balita usia 6-24 bulan di Indonesia adalah rendahnya mutu Makanan Pendamping ASI  (MPASI ) dan ketidaksesuaian pola asuh yang diberikan. Masih banyak ibu  yang belum sadar akan kebutuhan menu MPASI yang sehat dan tepat sesuai dengan usia balita, baik dari segi bahan makanan maupun nilai nutirisi gizi atau yang terkandung dalam menu makanan tersebut. Akibatnya seringkali ibu memberikan makanan balita tidak mengetahui menu MPASI apa yang dapat diolah dari bahan baku alami sesuai dengan usia balita. Tujuan dari penelitian ini bertujuan untuk membantu kesulitan tersebut dengan cara memberikan alternatif resep MPASI dengan bahan baku yang tersedia. 
+
+Dalam pembuatan sistem pencarian ini, penulis menggunakan metode Dice Coefficient. Metode pengumpulan data dengan metode studi literatur dan angket. Tahap pengembangan aplikasi meliputi tahapan prepocessing (tokenizing, filtering, stemming), analisis kebutuhan, pengumpulan data, perancangan basis data, perancangan antarmuka, implementasi dan pengujian sistem dengan metode mean average precision.
+
+Dari penelitian yang dilakukan diharapkan dapat menghasilkan sistem pencarian menu MPASI yang sesuai dengan kriteria dan usia balita dan serta dapat menginformasikan cara pembuatan MPASI yang tepat, sehingga kebutuhan gizi balita dapat terpenuhi dengan baik.
+
+__Kata Kunci__ : Mpasi, Sistem Pencarian, Dice Coefficient
