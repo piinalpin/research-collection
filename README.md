@@ -2,7 +2,7 @@
 Collection of Any Research of Data and Text Mining
 
 ### List of Research
-- Search The Mpasi Menu with The Dice Coefficient Method ([Lutvhi Rizkawati](https://github.com/whatyourdream), 2019)
+- Search The Mpasi Menu with The Dice Coefficient Method ([Luthvi Rizkawati](https://github.com/whatyourdream), 2019)
 - Data Mining Analysis on Pharmacy Transaction Data Uses The Eclat Algorithm ([Utami Merdekawati](https://github.com/tami9), 2019)
 - Clustering Times Series Student Portal Data Logs (Siti Aniszah, 2019)
 - Classification of Lecturers' Research Titles Using the K-Medoid Method ([Ade Antika](https://github.com/adeantika19), 2019)
