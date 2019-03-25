@@ -1,2 +1,2 @@
-# Research Collection Which Used Python
-Collection of Any Research of Data and Text Mining
+# Data Mining Analysis on Pharmacy Transaction Data Uses The Eclat Algorithm
+Description
