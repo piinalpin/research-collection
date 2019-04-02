@@ -1,2 +1,8 @@
-# Research Collection Which Used Python
-Collection of Any Research of Data and Text Mining
+# Grouping of Waste Banks Using the K-Medoid Method
+Bank sampah merupakan program yang dicanangkan oleh pemerintah Kota Yogyakarta untuk menanggulangi timbunan sampah yang semakin bertambah. Bank sampah memiliki konsep pengumpulan sampah kering dan dipilah serta memiliki manajemen layaknya perbankan, tetapi yang ditabung bukan uang melainkan sampah. Saat ini tidak ada identifikasi terhadap kondisi bank sampah yang masih berjalan. Solusi untuk mengidentifikasi setiap bank sampah yaitu dengan dikelompokkannya masing-masing bank sampah berdasarkan pengelolaannya, sehingga memberikan kemudahan pemerintah untuk mengetahui kondisi masing-masing bank sampah.
+
+Penelitian ini bertujuan untuk mengelompokkan data bank sampah dengan karakteristik yang sama ke suatu cluster yang sama dan data dengan karakteristik yang berbeda ke cluster yang lain menggunakan Metode K-Medoids. Tahap-tahap yang dilakuakan yaitu load dataset, data clening, perhitungan jarak dengan Euclidean Distance, kemudian masuk tahap clustering K-Medoids, serta melakukan evaluasi pola dengan Shilhoutte Coefficient.
+
+Dari 227 data yang didapatkan, terbentuk 2 kelompok.  Kelompok yang terbentuk tersebut berdasarkan hasil pengujian menggunakan Shilhoutte Coeficient adalah sebesar 0,104. Dimana kelompok 1 termasuk kelompok yang memiliki kriteria baik dalam semua segi penilaian yaitu konstruksi bangunan, sistem manajemen, mekanisme kerja, dan pelaksanaan. Kelompok 2 termasuk kriteria kurang baik dilihat dari segi pelaksanaan yang bernilai sangat tinggi, sehingga kelompok bank sampah yang perlu  ditingkatkan pada kelompok 2.
+
+__Kata kunci__ : Bank Sampah, Clustering, Euclidean Distance, K-Medoids.
