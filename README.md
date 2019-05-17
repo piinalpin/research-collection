@@ -9,6 +9,7 @@ Collection of Any Research of Jupyter Notebook Sampling on Data and Text Mining
 - [Classification of Lecturers' Research Titles Using the K-Medoid Method](https://github.com/piinalpin/research-collection/tree/master/k-medoids/Classification%20of%20Lecturers'%20Research%20Titles%20Using%20the%20K-Medoid%20Method) ([Ade Antika](https://github.com/adeantika19), 2019)
 - [Grouping of Waste Banks Using the K-Medoid Method](https://github.com/piinalpin/research-collection/tree/master/k-medoids/Grouping%20of%20Waste%20Banks%20Using%20the%20K-Medoid%20Method) ([Mugi Astuti](https://github.com/mugiastuti), 2019)
 - [Sentiment Analysis Index Performance of Lecturer Using Multinomial Naive Bayes](https://github.com/piinalpin/research-collection/tree/master/naive-bayes/Sentiment%20Analysis%20Index%20Performance%20of%20Lecturer%20Using%20Multinomial%20Naive%20Bayes) ([Alvinditya Saputra](https://github.com/piinalpin), 2018)
+- [Grouping Topic Titles Trend Using The Single Linkage Method with Manhattan Distance Similarity](https://github.com/piinalpin/research-collection/tree/master/single-linkage/Grouping%20Topic%20Titles%20Trend%20Using%20The%20Single%20Linkage%20Method%20with%20Manhattan%20Distance%20Similarity) ([Tsani Elvia Nita](https://github.com/tsanielv), 2018)
 
 ### Would you want to contribute?
 Contact me on email alvindityas@gmail.com
